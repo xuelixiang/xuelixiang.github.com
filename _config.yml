@@ -78,4 +78,6 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/xuelixiang/xuelixiang.github.com  #这里的网址填你自己的
+  branch: master   
